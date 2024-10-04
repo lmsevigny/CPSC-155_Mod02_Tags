@@ -1,4 +1,4 @@
-# Ch2.6
+# Module 02
 # Exercise: Investigating Tags
 
 ## Step 1
