@@ -1,4 +1,5 @@
 #!/bin/bash
+# chaos_monkey.sh
 
 function append_to_default_file_and_commit()
 {
